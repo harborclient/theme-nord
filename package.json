@@ -1,5 +1,5 @@
 {
-  "name": "@harborclient/plugin-nord",
+  "name": "@harborclient/theme-nord",
   "type": "module",
   "scripts": {
     "release": "bash scripts/publish.sh",
