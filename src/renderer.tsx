@@ -29,6 +29,5 @@ export function activate(hc: PluginContext): void {
       warning: "#ebcb8b",
       success: "#a3be8c",
     },
-    stylesheet: "dist/theme.css",
   });
 }
