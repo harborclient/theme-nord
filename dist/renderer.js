@@ -26,8 +26,7 @@ function activate(hc) {
       danger: "#bf616a",
       warning: "#ebcb8b",
       success: "#a3be8c"
-    },
-    stylesheet: "dist/theme.css"
+    }
   });
 }
 export {

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "pluginId": "com.harborclient.plugins.nord",
-  "pluginVersion": "1.0.6",
+  "pluginVersion": "1.0.7",
   "algorithm": "Ed25519",
   "files": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "path": "dist/renderer.js",
-      "sha256": "60cf1e5a2383ab6cd4b2f827e11a561c4f28672516e3334d5c5e03afa549e5b5"
+      "sha256": "e9dd3f58fcb0466fbe4f36a976006c5de904c61240cea2468a91e3f877408e0a"
     },
     {
       "path": "dist/theme.css",
@@ -18,7 +18,7 @@
     },
     {
       "path": "manifest.json",
-      "sha256": "ce9af249b2748941b04d58fa756ecb1dae0ed2e8cca2fe44870bae5209ae8615"
+      "sha256": "9e175f7c2bdb43dc957af200f9d86c941232d86d3a75d43228438e953efdda84"
     },
     {
       "path": "package.json",
@@ -34,7 +34,7 @@
     },
     {
       "path": "screenshot.png",
-      "sha256": "353122b31459cfb99fa71131c96a73d0be02a38fbbec71a27aa8af9b890e8a7d"
+      "sha256": "15c36f367ba10413c0746c37791993db668fdd6997b3f5a67ca07cf20ac6d4a4"
     },
     {
       "path": "scripts/build.mjs",
@@ -62,7 +62,7 @@
     },
     {
       "path": "src/renderer.tsx",
-      "sha256": "81e959d7e09f666a3e602dbca96298551b09af5d0d420387dcd5ccd50d3dcfc8"
+      "sha256": "b10007c3e63a553468fc52d6a2ece2796586907a6b5913af240016da45cd5d32"
     },
     {
       "path": "src/theme.css",
@@ -74,5 +74,5 @@
     }
   ],
   "keyId": "com.harborclient.plugins.nord",
-  "signature": "h1zPV7vGb3pMnxi5Kz7ueUTmM/AHB0TjRyzoZpHFCTNerV4mDDC9tawwnH1hsABk/plccW0w+gLZTt07TkXWDg=="
+  "signature": "BN1B3CgbV43R1c8lKZGtmKKI8Cx6/qIBHfSuDWJk5OAsdMQkfvmGLZn4q1FwWDJKGC7VKg2o9vuOID/ymfEsAQ=="
 }
